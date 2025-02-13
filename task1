@@ -1,0 +1,4 @@
+def kwargsAcceptFun(**kwargs):
+    
+    for key in kw:
+        print(f"{key}: {kw[key]}")
